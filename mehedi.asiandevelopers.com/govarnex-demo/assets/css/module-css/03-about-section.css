@@ -93,7 +93,7 @@
 }
 
 .about-style1__content-btn .btn-one {
-    box-shadow: 0px 15px 50px rgba(235, 41, 44, 0.3);
+    box-shadow: #ffffff;
 }
 
 .about-style1__img {
@@ -189,7 +189,7 @@
     width: 300px;
     height: 120px;
     background: #FFFFFF;
-    border: 7px solid rgba(235, 41, 44, 0.5);
+    border: #ffffff;
     box-shadow: 0px 20px 60px 10px rgba(0, 0, 0, 0.17);
     border-radius: 310px;
 }
